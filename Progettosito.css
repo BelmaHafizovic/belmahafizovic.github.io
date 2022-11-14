@@ -1,0 +1,12 @@
+.imp {color:darkgreen;}
+h2{color: darkred;}
+th {text-align:center; font-weight:bold ; font-style: verdana ; color: red ;}
+table {text-align: center ; }
+body {
+  padding-left: 80px;
+  padding-right: 80px;
+  background-image: url("11.jpg");
+  background-repeat: no-repeat;
+  background-position: 20% 50%;
+  background-size: cover;}
+  .bordo {border: 1px solid #000000;}
