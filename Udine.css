@@ -1,0 +1,10 @@
+h2, h3 {text-align: center; color: darkred;}
+body{
+	padding-left: 80px;
+	padding-right: 80px;
+	background-image: url("11.jpg");
+  background-repeat: no-repeat;
+  background-position: 20% 50%;
+  background-size: cover; }
+
+}
